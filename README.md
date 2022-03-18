@@ -82,10 +82,10 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKEMPIRESLBOTS/VCstream)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKEMPIRESLBOTS/VC_stream)
 
 ## 🚄 Deploy To Railway
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/DARKEMPIRESLBOTS/VCstream&envs=API_ID,API_HASH,BOT_TOKEN,BOT_USERNAME,ASSISTANT_NAME,SESSION_NAME,SUDO_USERS,DURATION_LIMIT)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/DARKEMPIRESLBOTS/VC_stream&envs=API_ID,API_HASH,BOT_TOKEN,BOT_USERNAME,ASSISTANT_NAME,SESSION_NAME,SUDO_USERS,DURATION_LIMIT)
 
 ## VPS Deployment 📡
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
