@@ -9,7 +9,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/SLBotsOfficial",
-    "repository": "https://github.com/DARKEMPIRESLBOTS/VCstream",
+    "repository": "https://github.com/DARKEMPIRESLBOTS/VC_stream",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
